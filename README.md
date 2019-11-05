@@ -10,4 +10,6 @@ It works as follows:
 4. place a limit buy order at ~4% over this price with the maximum leverage available for that coin
 5. push a notification to your phone which makes an alarm go off
 
-If there happens to be another *totally rational* crypto bull run, and "the Coinbase effect" takes hold again, this might serve as a template for someone to do something similar. It probably needs fixing, I've not touched it in a while.
+If there happens to be another *totally rational* crypto bull run, and "the Coinbase effect" takes hold again, this might serve as a template for someone to do something similar. 
+
+It probably needs fixing, I've not touched it in a while. You'll have to fill in some API keys in `kraken.key`, and some other credentials at the top of `bot.py`.
